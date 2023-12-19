@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "name": "men",
+        "backgroundColor": "#5eb0ab61",
+        "timeColor": "#2cb8af",
+        "textColor": "#5eb0ab",
+        "countries": [
+            {"name": "Australia", "time": "3:00 AM"},
+            {"name": "Ghana", "time": "8:00 PM"},
+            {"name": "Indonesia", "time": "10:00 PM"},
+            {"name": "Kenya", "time": "11:00 PM"}
+        ]
+      },
+      {
+        "name": "women",
+        "backgroundColor": "#e8e0fc",
+        "timeColor": "#513d95",
+        "textColor": "#513d95",
+        "countries": [
+            {"name": "Australia", "time": "3:00 AM"},
+            {"name": "Ghana", "time": "8:00 PM"},
+            {"name": "Indonesia", "time": "10:00 PM"},
+            {"name": "Kenya", "time": "11:00 PM"}
+        ]
+      },
+      {
+        "name": "youth",
+        "backgroundColor": "#d1e5fc",
+        "timeColor": "#4880c8",
+        "textColor": "#4880c8",
+        "countries": [
+            {"name": "Australia", "time": "3:00 AM"},
+            {"name": "Ghana", "time": "8:00 PM"},
+            {"name": "Indonesia", "time": "10:00 PM"},
+            {"name": "Kenya", "time": "11:00 PM"}
+        ]
+      }
+    ]
+  }
+  
